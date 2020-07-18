@@ -9,8 +9,10 @@
 
 ### Activities
 #### SCI Paper
+##### 1st Author
 [![1st_Author](https://img.shields.io/badge/1st_Author-Ion_Beam_Treatment-FA7343?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://doi.org/10.1016/j.mssp.2018.09.015)
 [![1st_Author](https://img.shields.io/badge/1st_Author-Nb–doped_TiO2–x-FA7343?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://doi.org/10.1016/j.jallcom.2020.155531)
+##### 2nd Author
 [![2nd_Author](https://img.shields.io/badge/2nd_Author-Review_of_Transparent_conducting_electrodes-FA7343?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://doi.org/10.1002/ijch.201900045)
 [![2nd_Author](https://img.shields.io/badge/2nd_Author-Cu–doped_NiO-FA7343?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://doi.org/10.1039/C9QI01052A)
 [![2nd_Author](https://img.shields.io/badge/2nd_Author-Carbon_quantum_dot–incorporated_NiO-FA7343?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://doi.org/10.1016/j.jallcom.2019.152887)
