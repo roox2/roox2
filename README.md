@@ -8,7 +8,7 @@
 ![Watching_Netflix](https://img.shields.io/badge/Watching_Netflix-E50914?style=for-the-badge&logo=Netflix&logoColor=white)
 ![Music](https://img.shields.io/badge/Listening_to_Music-000000?style=for-the-badge&logo=Apple-Music&logoColor=white)
 ![Soccer](https://img.shields.io/badge/Playing_Soccer-000000?style=for-the-badge&logo=EA&logoColor=white)
-![Tesla](https://img.shields.io/badge/Dream_car-CC0000?style=for-the-badge&logo=Tesla&logoColor=white)
+[![Tesla](https://img.shields.io/badge/Dream_car-CC0000?style=for-the-badge&logo=Tesla&logoColor=white)](https://www.tesla.com/ko_KR/modelx/design#battery)
 
 ### Activities
 #### 1st Author SCI Paper
