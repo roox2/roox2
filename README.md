@@ -2,6 +2,7 @@
 
 ### Education
 ![univ](https://img.shields.io/badge/Sungkyunkwan_Univ.-Advanced_Materials_Engineering_(M.S)-0EC63F?style=for-the-badge)
+![univ](https://img.shields.io/badge/Kunsan_National_Univ.-Physics_(B.S)-10069F?style=for-the-badge)
 
 ### Interests
 ![Semiconductors_R&D](https://img.shields.io/badge/Semiconductors_R&D-1428A0?style=for-the-badge&logo=Samsung&logoColor=white)
