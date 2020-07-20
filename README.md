@@ -1,5 +1,5 @@
 # Welcome, I'm Jaehoon😄
-I'm learning SwiftUI as an useful hobby from [Jaesung](https://github.com/jaesung-wwdc) who is a super pig🐷.
+Recently, I'm learning SwiftUI as an useful hobby from [Jaesung](https://github.com/jaesung-wwdc) who is a super pig🐷.
 
 ### Education
 ![univ](https://img.shields.io/badge/Sungkyunkwan_Univ.-Advanced_Materials_Engineering_(M.S)-0EC63F?style=for-the-badge)
