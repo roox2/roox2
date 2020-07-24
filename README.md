@@ -1,6 +1,9 @@
 # Welcome, I'm Jaehoon😄
 Recently, I'm learning SwiftUI as an useful hobby from [Jaesung](https://github.com/jaesung-wwdc) who is a super pig🐷.
 
+### Occupation
+![Samsung](https://img.shields.io/badge/Samsung_Electronics-1428A0?style=for-the-badge&logo=Samsung&logoColor=white)
+
 ### Education
 [![univ](https://img.shields.io/badge/Sungkyunkwan_Univ.-Advanced_Materials_Engineering_(M.S)-0EC63F?style=for-the-badge)](http://amse.skku.edu/html/index.php)
 [![univ](https://img.shields.io/badge/Kunsan_National_Univ.-Physics_(B.S)-10069F?style=for-the-badge)](http://www.kunsan.ac.kr/physics/index.kunsan)
